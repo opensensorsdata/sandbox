@@ -1,0 +1,21 @@
+# Layout settings
+
+animation: "bounceOut"
+
+# Images
+
+logo: "osd_simple_50.svg"
+hero: "Faro_de_Hopsnes,_Suðurland,_Islandia,_2014-08-13,_DD_083.jpg"
+avatar: "osd_simple_200.svg"
+
+# Colors
+
+accent: "#c99065"
+accent-light: "#ea5480"
+bgcolor: "#f2f2f2"
+
+documentBackgroundColor: "#fff"
+headlineColor: "#333"
+textColor: "#666"
+linkColor: "#002fa7"linkColorHover: "#ea5480"
+selectionColor: "#ffff9e"

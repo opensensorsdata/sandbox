@@ -1,0 +1,79 @@
+#-------------------------------
+# General Site Settings
+
+title: open{sensors}data
+description: extract // connect // share // remix social-icon-header:- <a href="http://twitter.com/osd_it"><i class="fa fa-twitter"></i></a>- <a href="https://github.com/opensensorsdata"><i class="fa fa-github"></i></a>- <a href="https://www.facebook.com/opensensorsdata"><i class="fa fa-facebook"></i></a>
+email: opensensorsdata@gmail.com
+# NOTE: The Logo and Background image are defined in the all.sass document.
+
+menu:
+- {name: what, url: '#what'}
+- {name: manifesto, url: '#manifesto'}
+- {name: how, url: '#how'}
+- {name: Contact, url: '#contact'}
+
+#-------------------------------
+# SEO Section
+
+# NOTE: Providing SEO information will make this website more searchable on the internet.
+
+seo:
+  description: 'Provide a description for your website to make it visible to search engines.'
+  rel-author: 'https://plus.google.com/u/0/+DevTipsForDesigners/'
+  rel-publisher: 'https://plus.google.com/u/0/+DevTipsForDesigners/'
+
+#-------------------------------
+# What Section
+
+# NOTE: The avatar is defined in the all.sass document.
+# to insert/modificat avatar/logo go to layout.yml#change here text under logowhat-blog-projects:- {name: news&doc, folder: 'what-3', file: 'what/what-3.html'}what-left-projects:- {name: extract, folder: 'what-1', file: 'what/what-1.hmtl'}- {name: connect, folder: 'what-2', file: 'what/what-2.html'}what-right-projects:- {name: share, folder: 'what-4', file: 'what/what-4.html'}- {name: remix, folder: 'what-5', file: 'what/what-5.html'}  intro: >
+  **o{s}d** is a services start-up that analyses, work out and deploy hardware prototype in order to *extract*, *connect*, *share* and *remix* world raw (open)data. Its goal is to bridge the gap between social potentialities and real digital possibilities and contests through sensors technology.  cippa:- {name: Project, url: 'http://en.wikipedia.org/wiki/Lean_manufacturing', value: '8'}- {name: Relationship, url: 'http://en.wikipedia.org/wiki/Semantic_Web', value: '8'}- {name: Opendata, url: 'http://www.dati.gov.it/', value: '9'}- {name: OpenGLAM, url: 'http://openglam.org/', value: '8'}- {name: Wikipedia, url: 'https://en.wikipedia.org/wiki/Wikipedia:Five_pillars', value: '7'}- {name: Sensors, url: 'http://www.mdpi.com/journal/sensors', value: '7'}- {name: Visual Design, url: 'http://www.edwardtufte.com/tufte/index', value: '8'}- {name: Coding, url: 'https://github.com/opensensorsdata', value: '6'}
+
+#-------------------------------# how Sectionprojects:- {name: Acqualta, folder: 'proj-1', file: 'how/proj-1.html'}- {name: Ardomino, folder: 'proj-2', file: 'how/proj-2.html'}- {name: Open Almanacco, folder: 'proj-3', file: 'how/proj-3.html'}- {name: Smart Agricolture, folder: 'proj-7', file: 'how/proj-7.html'}
+
+
+
+
+#-------------------------------
+# Why Section
+
+why:
+- {avatar: 'Open_Data_stickers.jpg',
+  name: 'opendata',
+  title: 'is the background of the openknowledge',
+  quote: '<p><strong>Il riuso aperto dei dati rafforza</strong> la creatività attraverso il riuso: su <a href="http://opendatahandbook.org/">OpenDataHandbook</a> trovi maggiori informazioni, mentre sui gradi di apertura consulta <a href="http://5stardata.info/">5 Stars Data</a></p>',
+  logo: '5star-steps.png'}
+- {avatar: 'Arduino_Duemilanove_retro.JPG',
+  name: 'sensors',
+  title: 'transform the things in places and in contests',
+  quote: '<p><strong><a href="http://www.arduino.cc/">Arduino</a> and <a href="http://www.raspberrypi.org/">Raspberry</a> are the most famous</strong> but the sensors are so many and "between us". We trust in the evolution of <a href="http://en.wikipedia.org/wiki/Internet_of_Things">Internet of Things (IoT)</a> by the Internet of Places through the different contests </p>',
+  logo: 'Internet_of_things_signed_by_the_author.jpg'}
+- {avatar: 'Wikipedia-logo-v2.svg.png',
+  name: 'Wikipedia',
+  title: 'the best infrastructure for the social and collaborative knowledge',
+  quote: '<p><strong>Yea, I guess hes good at computers or something,</strong> but let me ask you this: If a cat always lands on its feet, and buttered bread always lands butter side down, what would happen if you tied buttered bread on top of a cat?</p>',
+  logo: '2000px-Wikidata-logo-en.svg.png'}
+- {avatar: 'sensjournalist.png',
+  name: 'Sensorsjournalism',
+  title: 'how to reinvent the storytelling through realtime data',
+  quote: '<p><strong>Back in old country</strong> only nerds who is playing on computers. Now all bros is wanting to make codes and junk. I lost foot in war. You dont see girls asking me about homework.</p>',
+  logo: 'Data_driven_journalism_process.jpg'}
+- {avatar: 'OpenGLAM-logo.png',  name: 'OpenGLAM',  title: 'the Heritage is the first place of Culture',  quote: '<p><strong>Yea, I guess hes good at computers or something,</strong> but let me ask you this: If a cat always lands on its feet, and buttered bread always lands butter side down, what would happen if you tied buttered bread on top of a cat?</p>',  logo: 'GLAM_logo_transparent.png'}- {avatar: 'cc-by_logo.png',  name: 'OpenAccess',  title: 'open content and open research in Academy',  quote: '<p><strong>Yea, I guess hes good at computers or something,</strong> but let me ask you this: If a cat always lands on its feet, and buttered bread always lands butter side down, what would happen if you tied buttered bread on top of a cat?</p>',  logo: 'download.png'}- {avatar: 'browser-iphone@2x.png',  name: 'rOpenSci',  title: 'Transforming science through open data',  quote: '<p><strong>Yea, I guess hes good at computers or something,</strong> but let me ask you this: If a cat always lands on its feet, and buttered bread always lands butter side down, what would happen if you tied buttered bread on top of a cat?</p>',  logo: 'download.jpeg'}  
+  
+#-------------------------------
+# Contact Section
+  
+social:
+- {icon: 'twitter', link: 'http://twitter.com/osd_it'}
+- {icon: 'github', link: 'https://github.com/opensensorsdata'}
+- {icon: 'facebook', link: 'https://www.facebook.com/opensensorsdata'}
+
+
+  
+# social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
+  
+  
+  
+  
+  
+  
