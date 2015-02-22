@@ -1026,7 +1026,7 @@ header {
 @media screen and (max-width: 541px) {
   .ability-lockup {
     width: 270px; } }
-.ability-lockup .ability-icons.ability-1 span:nth-child(n+1), .ability-lockup .ability-icons.ability-2 span:nth-child(n+2), .ability-lockup .ability-icons.ability-3 span:nth-child(n+3), .ability-lockup .ability-icons.ability-4 span:nth-child(n+4), .ability-lockup .ability-icons.ability-5 span:nth-child(n+5), .ability-lockup .ability-icons.ability-6 span:nth-child(n+6), .ability-lockup .ability-icons.ability-7 span:nth-child(n+7), .ability-lockup .ability-icons.ability-8 span:nth-child(n+8), .ability-lockup .ability-icons.ability-9 span:nth-child(n+9), .ability-lockup .ability-icons.ability-10 span:nth-child(n+10) {
+.ability-lockup .ability-icons.ability-1 span:nth-child(n+2), .ability-lockup .ability-icons.ability-2 span:nth-child(n+3), .ability-lockup .ability-icons.ability-3 span:nth-child(n+4), .ability-lockup .ability-icons.ability-4 span:nth-child(n+5), .ability-lockup .ability-icons.ability-5 span:nth-child(n+6), .ability-lockup .ability-icons.ability-6 span:nth-child(n+7), .ability-lockup .ability-icons.ability-7 span:nth-child(n+8), .ability-lockup .ability-icons.ability-8 span:nth-child(n+9), .ability-lockup .ability-icons.ability-9 span:nth-child(n+10), .ability-lockup .ability-icons.ability-10 span:nth-child(n+11) {
   background: #002fa7;
   opacity: 0.5; }
 
