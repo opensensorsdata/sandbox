@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="71.260002"
+   height="200"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="osd_graffa_sx.svg"
+   inkscape:export-filename="/Users/lucacorsato/Documents/osd/website/osdfront/assets/img/osd_simple_200.png"
+   inkscape:export-xdpi="320"
+   inkscape:export-ydpi="320">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient4444"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#002fa7;stop-opacity:1;"
+         offset="0"
+         id="stop4446" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4444"
+       id="linearGradient4448"
+       x1="1481.6096"
+       y1="393.59521"
+       x2="3401.6096"
+       y2="393.59521"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4444"
+       id="linearGradient4452"
+       gradientUnits="userSpaceOnUse"
+       x1="1481.6096"
+       y1="393.59521"
+       x2="3401.6096"
+       y2="393.59521"
+       gradientTransform="translate(-1761.6116,2283.4524)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.225"
+     inkscape:cx="81.240307"
+     inkscape:cy="100"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer11"
+     showgrid="false"
+     inkscape:window-width="1440"
+     inkscape:window-height="851"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="sfondo"
+     transform="translate(0,162.5)"
+     style="display:inline" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer11"
+     inkscape:label="logo"
+     style="display:inline"
+     transform="translate(0,-852.3622)">
+    <path
+       inkscape:connector-curvature="0"
+       id="path4300"
+       style="font-size:56px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#002fa7;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+       d="m 0,1052.3622 0,-5.5465 7.2307,0 c 7.07534,0 12.09014,-2.1633 15.04493,-6.489 3.03204,-4.2483 4.54852,-10.5412 4.54856,-18.8794 l 0,-39.40977 c -4e-5,-7.63045 1.98224,-14.08066 5.94788,-19.35111 3.96512,-5.34933 9.44661,-8.84978 16.44431,-10.50134 l 0,-0.35376 c -6.84215,-1.49467 -12.28498,-4.956 -16.32772,-10.38334 -4.04335,-5.42801 -6.06451,-11.83867 -6.06447,-19.23356 l 0,-38.93777 c -4e-5,-8.33829 -1.51652,-14.63099 -4.54856,-18.87909 -2.95479,-4.32606 -7.96959,-6.48933 -15.04493,-6.48933 l -7.2307,0 0,-5.54603 15.86101,0 c 10.10768,4.8e-4 17.68874,2.98985 22.74245,8.96801 5.05352,5.97826 7.58033,14.51315 7.58042,25.60397 l 0,34.69057 c -9e-5,18.24967 8.35865,27.53168 25.07498,27.84655 l 0,5.30956 c -8.39712,0.31511 -14.69517,2.75289 -18.89335,7.31556 -4.12112,4.56266 -6.18172,11.48488 -6.18163,20.76712 l 0,34.80816 c -9e-5,10.9343 -2.64345,19.4298 -7.93025,25.4866 -5.20955,6.1358 -12.67346,9.2039 -22.39262,9.2039 l -15.86101,0"
+       inkscape:export-filename="/Users/lucacorsato/Documents/o{s}d/o{s}d_semplice.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+  </g>
+</svg>

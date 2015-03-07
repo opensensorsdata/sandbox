@@ -1,51 +1,1 @@
-.section-contact
-  text-align: center
-
-.social-links
-  max-width: 700px
-  margin: 0px auto 50px
-  +display(flex)
-  +justify-content(space-around)
-  +flex-wrap(wrap)
-  
-  a
-    display: block
-    //background: $accent
-    border: 2px solid $accent
-    +size(50px)
-    line-height: 50px
-    color: $linkColor
-    border-radius: 50%
-    font-size: 28px
-    margin: 20px
-    position: relative
-    
-    
-    &:after
-      content: ''
-      display: block
-      +position(absolute, 0px 0px 0px 0px)
-      border: 2px solid $accent
-      border-radius: 50%
-      margin: -2px
-      opacity: 1
-      +transition()
-      
-    &:hover:after
-      +transform(scale(1.5))
-      opacity: 0
-
-.bar
-  width: 250px
-  height: 0px
-  border-top: 4px solid $accent
-  margin: 0px auto 50px
-
-.biglink
-  display: inline-block
-  font:
-    size: 72px
-    weight: 300
-  line-height: 1
-  width: 90%
-  margin: 0 auto
+.social-links	max-width: 700px	margin: 0px auto 50px	+display(flex)	+justify-content(space-around)		a		display: block		background: $linkColor		+size(50px)		text-align: center		line-height: 50px		color: white		border-radius: 50%		font-size: 28px		+transition()				&:hover			+transform(scale(1.5)).bar	width: 250px	height: 0px	border-top: 1px solid $linkColor	margin: 0px auto 100px	.crew-unit	max-width: 540px	+display(flex)	margin: 100px auto	+align-items(center)	+justify-content(space-around)		.crew-face		min-width: 200px		text-align: center				img			+size(100px)			border-radius: 50%			background-color: $linkColorHover					.crew-name			display: block			font-weight: 300			letter-spacing: 1px			text-size: 24px			color: #000					.crew-title			font-style: normal			font-size: 12px			color: #999					.crew-social			display: block			font-size: 18px
